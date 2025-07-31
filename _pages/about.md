@@ -37,10 +37,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- `ICANN 2024` Small Object Detection Based on Bidirectional Feature Fusion and Multi-scale Distillation, Lingyu Wang, **Zijie Zhou**, Guanqun Shi, Junkang Guo, Zhigang Liu. <span class="rucred">Oral</span>
 </div>
 </div>
 
+- `ICANN 2024` <span style="color:red">(Oral)</span> [Small Object Detection Based on Bidirectional Feature Fusion and Multi-scale Distillation, Lingyu Wang](), **Zijie Zhou**, Guanqun Shi, Junkang Guo, Zhigang Liu.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
