@@ -1,4 +1,4 @@
-# 📝 Publications 
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -13,6 +13,10 @@
 </div>
 
 
-- ``ICANN 2024`` [Small Object Detection Based on Bidirectional Feature Fusion and Multi-scale Distillation]() Lingyu Wang, **Zijie Zhou**, Guanqun Shi, Junkang Guo, Zhigang Liu. <span style="color:red">(Oral)</span> 
+- [**Small Object Detection Based on Bidirectional Feature Fusion and Multi-scale Distillation**]() 
+  
+  Lingyu Wang, **Zijie Zhou**, Guanqun Shi, Junkang Guo, Zhigang Liu. <span style="color:red">(Oral)</span> 
+
+  International Conference on Artificial Neural Networks (ICANN) 2024
 - `ICLR 2023` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, et al.
