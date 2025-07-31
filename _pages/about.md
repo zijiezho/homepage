@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- `ICANN 2024` [Small Object Detection Based on Bidirectional Feature Fusion and Multi-scale Distillation]() Lingyu Wang, **Zijie Zhou**, Guanqun Shi, Junkang Guo, Zhigang Liu. <span style="color:red">(Oral)</span> 
+- ``ICANN 2024`` [Small Object Detection Based on Bidirectional Feature Fusion and Multi-scale Distillation]() Lingyu Wang, **Zijie Zhou**, Guanqun Shi, Junkang Guo, Zhigang Liu. <span style="color:red">(Oral)</span> 
 - `ICLR 2023` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, et al.
 
