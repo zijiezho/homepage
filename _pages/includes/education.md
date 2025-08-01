@@ -1,4 +1,4 @@
-# 📖 Educations
+# Educations
 - *2023.08 - Present*: **China University of Petroleum (Beijing)**
   
   Master of Artificial Intelligence
