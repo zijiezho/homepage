@@ -21,7 +21,7 @@ Hi, I'm Zijie Zhou 👋
 
 Welcome to my academic corner on the web!
 
-I'm a graduate student in Artificial Intelligence at <a href='https://cup.edu.cn'>China University of Petroleum, Beijing</a>. My research focuses on large language model and natural language processing. You can download my CV [here](/assets/pdf/zhouzijie_cv.pdf).
+I'm a graduate student in Artificial Intelligence at <a href='https://cup.edu.cn'>China University of Petroleum, Beijing</a>. My research focuses on large language model and natural language processing. You can download my CV [here]{{ '/assets/pdf/zhouzijie_cv.pdf' | relative_url }}.
 
 
 
